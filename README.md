@@ -29,6 +29,11 @@ Welcome to my GitHub profile! I'm an aspiring web developer with a passion for c
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=alexanderjohnjulian@gmail.com&logo=gmail&label=Gmail&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
 </div>
+Feel free to reach out to me if you want to collaborate on projects, discuss web development, or just say hello! I'm always open to new opportunities and connections.
 
 ###
+---
 
+**"The best way to predict the future is to create it."** - Peter Drucker
+
+Thanks for stopping by! 😊
