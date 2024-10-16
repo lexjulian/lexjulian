@@ -24,7 +24,7 @@ A driven and passionate programmer with a tireless work ethic. Dedicated to crea
 
 ###
 ## 🌱 Currently Learning
-- React Native
+- Go
 
   
 ## 📫 Let's Connect!
