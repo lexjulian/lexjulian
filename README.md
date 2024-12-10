@@ -2,7 +2,7 @@
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alex Julian
 ===================================================================================================================================
-A driven and passionate programmer with a tireless work ethic. Dedicated to creating effective and innovative solutions to complex challenges. With a deep love of coding and a commitment to continuous learning. As a result, I excel in both individual and collaborative projects. My approach focuses on extensions. This ensures that every line of code produces robust and scalable results. I thrive in a dynamic environment. This is where my problem-solving skills and adaptability can shine. and are eager to embrace new technology and methods. Always looking to expand my expertise...
+A driven and passionate programmer with a tireless work ethic. Dedicated to creating effective and innovative solutions to complex challenges. With a deep love of coding and a commitment to continuous learning.  Always looking to expand my expertise...
 
 ###
 <!--
@@ -41,7 +41,7 @@ A driven and passionate programmer with a tireless work ethic. Dedicated to crea
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=alexanderjohnjulian@gmail.com&logo=gmail&label=Gmail&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
 </div>
-Feel free to reach out to me if you want to collaborate on projects, discuss web development, or just say hello! I'm always open to new opportunities and connections.
+Feel free to reach out to me if you want to collaborate on projects, discuss about tech, or just say hello! I'm always open to new opportunities and connections.
 
 ###
 ---
