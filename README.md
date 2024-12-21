@@ -39,7 +39,7 @@ A driven and passionate programmer with a tireless work ethic. Dedicated to crea
   
 ## 📫 Let's Connect!
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=alexanderjohnjulian@gmail.com&logo=gmail&label=Gmail&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=contact@alexjulian.me&logo=mail.ru&label=Email Me&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
 </div>
 Feel free to reach out to me if you want to collaborate on projects, discuss about tech, or just say hello! I'm always open to new opportunities and connections.
 
